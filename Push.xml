@@ -17,8 +17,8 @@
 
   <Target Name="Push" AfterTargets="CreateSubmitID">
     <Exec Command="git add ."/>
-    <Exec Command='git config --global user.email ""'/>
-    <Exec Command='git config --global user.name ""'/>
+    <Exec Command='git config --global user.email "yucaizi1984@gmail.com"'/>
+    <Exec Command='git config --global user.name "ZiYuCai_Automation"'/>
     <Exec Command='git commit -m "$(SubmitMessage)"'/>
     <Exec Command="git push --set-upstream https://$(TOKEN_AUTO_PUSH)@github.com/ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush master"/>
   </Target>
