@@ -1,0 +1,30 @@
+<Project>
+
+  <PropertyGroup>
+    <SubmitID>$([System.DateTime]::Now.ToString("yyyy_MM_dd_HH_mm_ss"))</SubmitID>
+    <SubmitFile>Archives\$(SubmitID)</SubmitFile>
+    <SubmitMessage>auto commit</SubmitMessage>
+  </PropertyGroup>
+
+
+  <Target Name="CreateSubmitID">
+    <Exec Command="echo CreateSubmitID"/>
+      <WriteLinesToFile File="$(SubmitFile)" 
+        Lines="" 
+        Overwrite="True"
+        Condition="!Exists($(SubmitFile))"/>
+  </Target>
+
+  <Target Name="Push" AfterTargets="CreateSubmitID">
+    <Exec Command="echo Push"/>
+    <Exec Command="git add ."/>
+    <Exec Command='git commit -m "$(SubmitMessage)"'/>
+    <Exec Command="git push --set-upstream https://$(TOKEN_AUTO_PUSH)@github.com/ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush master"/>
+  </Target>
+
+
+
+
+
+
+</Project>
