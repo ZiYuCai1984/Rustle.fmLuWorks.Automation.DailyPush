@@ -8,23 +8,20 @@
 
 
   <Target Name="CreateSubmitID">
-    <Exec Command="echo CreateSubmitID"/>
-      <WriteLinesToFile File="$(SubmitFile)" 
-        Lines="" 
-        Overwrite="True"
-        Condition="!Exists($(SubmitFile))"/>
+    <WriteLinesToFile 
+      File="$(SubmitFile)" 
+      Lines="" 
+      Overwrite="True"
+      Condition="!Exists($(SubmitFile))"/>
   </Target>
 
   <Target Name="Push" AfterTargets="CreateSubmitID">
-    <Exec Command="echo Push"/>
     <Exec Command="git add ."/>
+    <Exec Command='git config --global user.email ""'/>
+    <Exec Command='git config --global user.name ""'/>
     <Exec Command='git commit -m "$(SubmitMessage)"'/>
     <Exec Command="git push --set-upstream https://$(TOKEN_AUTO_PUSH)@github.com/ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush master"/>
   </Target>
 
 
-
-
-
-
-</Project>
+</Project>    
