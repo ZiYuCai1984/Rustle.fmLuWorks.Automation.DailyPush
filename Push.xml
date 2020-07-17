@@ -18,7 +18,8 @@
 	<Target Name="Push" AfterTargets="ApplyTemplate">
 		<Exec Command='git config --global user.email "yucaizi1984@gmail.com"'/>
 		<Exec Command='git config --global user.name "ZiYuCai_Automation"'/>
-		<Exec Command='git commit -m "$(CommitMessage)" -a'/>
+		<Exec Command='git add .'/>
+		<Exec Command='git commit -m "$(CommitMessage)"'/>
 		<Exec Command="git push --set-upstream https://$(TOKEN_AUTO_PUSH)@github.com/ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush master"/>
 	</Target>
 
