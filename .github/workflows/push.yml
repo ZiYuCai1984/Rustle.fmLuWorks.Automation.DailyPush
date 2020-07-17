@@ -1,8 +1,8 @@
 name: Auto Push
 
 on:
+  push:
   schedule:
-    - push:
     - cron: '0 22 * * *'
 
 jobs:
