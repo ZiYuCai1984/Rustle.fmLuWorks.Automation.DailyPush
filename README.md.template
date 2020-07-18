@@ -5,13 +5,13 @@
 
 #Auto update
 
-## Build Status
-
-![Auto Push](https://github.com/ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush/workflows/Auto%20Push/badge.svg)
-
 ## Update time
 
 $(CurrentTime)
+
+## Build status
+
+![Auto Push](https://github.com/ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush/workflows/Auto%2520Push/badge.svg)
 
 ## Environment variables
 
