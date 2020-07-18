@@ -15,7 +15,7 @@
 	</Target>
 
 
-	<Target Name="Push" AfterTargets="ApplyTemplate" Condition="Exists('$(TOKEN_AUTO_PUSH)')">
+	<Target Name="Push" AfterTargets="ApplyTemplate" Condition="$(CI)">
 		<Exec Command='git config --global user.email "yucaizi1984@gmail.com"'/>
 		<Exec Command='git config --global user.name "ZiYuCai_Automation"'/>
 		<Exec Command='git add .'/>

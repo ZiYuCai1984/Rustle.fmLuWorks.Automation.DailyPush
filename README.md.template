@@ -15,10 +15,15 @@ $(CurrentTime)
 
 ## Environment variables
 
-| github  | $(GITHUB)  |
+| CI  | $(CI)  |
 | :------------ | :------------ |
-| github.sha	|  $(GITHUB_SHA) |
-
+| GITHUB_WORKFLOW	|  $(GITHUB_WORKFLOW) |
+| GITHUB_RUN_ID	|  $(GITHUB_RUN_ID) |
+| GITHUB_RUN_NUMBER	|  $(GITHUB_RUN_NUMBER) |
+| GITHUB_ACTOR	|  $(GITHUB_ACTOR) |
+| GITHUB_SHA	|  $(GITHUB_SHA) |
+| GITHUB_ACTION	|  $(GITHUB_ACTION) |
+| ... |...|
 ]]>
         </README_md>
     </PropertyGroup>
