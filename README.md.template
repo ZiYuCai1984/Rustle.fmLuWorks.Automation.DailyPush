@@ -2,11 +2,22 @@
     <PropertyGroup>
         <README_md>
 <![CDATA[
-# Auto update
 
-## Current time
+#Auto update
+
+## Build Status
+
+![Auto Push](https://github.com/ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush/workflows/Auto%20Push/badge.svg)
+
+## Update time
 
 $(CurrentTime)
+
+## Environment variables
+
+| github  | $(GITHUB)  |
+| :------------ | :------------ |
+| github.sha	|  $(GITHUB_SHA) |
 
 ]]>
         </README_md>
@@ -26,9 +37,3 @@ $(CurrentTime)
     </ItemGroup>
 
 </Project>
-
-
-
-
-
-

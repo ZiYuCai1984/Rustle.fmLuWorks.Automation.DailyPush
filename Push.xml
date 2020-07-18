@@ -1,7 +1,7 @@
 <Project>
 
 	<PropertyGroup>
-		<CurrentTime>$([System.DateTime]::Now.ToString("yyyy_MM_dd_HH_mm_ss"))</CurrentTime>
+		<CurrentTime>$([System.DateTime]::Now.ToString("yyyy-MM-dd-HH-mm-ss"))</CurrentTime>
 		<CommitMessage>auto commit</CommitMessage>
 	</PropertyGroup>
 
@@ -15,7 +15,7 @@
 	</Target>
 
 
-	<Target Name="Push" AfterTargets="ApplyTemplate">
+	<Target Name="Push" AfterTargets="ApplyTemplate" Condition="Exists('$(TOKEN_AUTO_PUSH)')">
 		<Exec Command='git config --global user.email "yucaizi1984@gmail.com"'/>
 		<Exec Command='git config --global user.name "ZiYuCai_Automation"'/>
 		<Exec Command='git add .'/>

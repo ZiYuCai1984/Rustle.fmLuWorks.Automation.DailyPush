@@ -1,5 +1,9 @@
-﻿# Auto update
+﻿## Update time
 
-## Current time
+2020-07-18-20-50-26
 
-2020_07_18_20_34_27
+## Environment variables
+
+| github  |   |
+| :------------ | :------------ |
+| github.sha	|   |
