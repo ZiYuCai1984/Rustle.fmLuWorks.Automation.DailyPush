@@ -2,7 +2,7 @@
 
 ## Update time
 
-2020-07-23-22-01-51
+2020-07-24-22-01-47
 
 ## Build status
 
@@ -13,9 +13,9 @@
 | CI  | true  |
 | :------------ | :------------ |
 | GITHUB_WORKFLOW	|  Auto Push |
-| GITHUB_RUN_ID	|  180411246 |
-| GITHUB_RUN_NUMBER	|  13 |
+| GITHUB_RUN_ID	|  181722913 |
+| GITHUB_RUN_NUMBER	|  14 |
 | GITHUB_ACTOR	|  ZiYuCai1984 |
-| GITHUB_SHA	|  0c85d8ba0bcc0496e6765657411071b534a97f56 |
+| GITHUB_SHA	|  2b16b53810a6577198133e37e6950b0bfec33672 |
 | GITHUB_ACTION	|  run |
 | ... |...|
