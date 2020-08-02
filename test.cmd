@@ -1,1 +1,0 @@
-msbuild Push.xml /t:ApplyTemplate
