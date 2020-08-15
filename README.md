@@ -42,8 +42,8 @@
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REPOSITORY | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
- | GITHUB_RUN_ID | 209190739 |
- | GITHUB_RUN_NUMBER | 22 |
+ | GITHUB_RUN_ID | 210213474 |
+ | GITHUB_RUN_NUMBER | 23 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
  | GITHUB_WORKFLOW | Auto Push |
@@ -101,7 +101,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:/hostedtoolcache/windows |
- | RUNNER_TRACKING_ID | github_a4366c1e-c42d-46b0-8aba-c5af4d946a85 |
+ | RUNNER_TRACKING_ID | github_d3963fcc-b8e8-4629-b974-7084f89969bf |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server-standalone.jar |
