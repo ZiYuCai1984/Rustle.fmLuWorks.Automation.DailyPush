@@ -43,8 +43,8 @@
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REPOSITORY | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
- | GITHUB_RUN_ID | 235093775 |
- | GITHUB_RUN_NUMBER | 40 |
+ | GITHUB_RUN_ID | 236804142 |
+ | GITHUB_RUN_NUMBER | 41 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
  | GITHUB_WORKFLOW | Auto Push |
@@ -62,7 +62,7 @@
  | HOMEPATH | \Users\runneradmin |
  | IEWebDriver | C:\SeleniumWebDrivers\IEDriver |
  | ImageOS | win19 |
- | ImageVersion | 20200820.1 |
+ | ImageVersion | 20200827.1 |
  | JAVA_HOME | C:\Program Files\Java\jdk8u265-b01 |
  | JAVA_HOME_11_X64 | C:\Program Files\Java\jdk-11.0.8+10 |
  | JAVA_HOME_13_X64 | C:\Program Files\Java\jdk-13.0.2+8 |
@@ -74,7 +74,7 @@
  | M2_HOME | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.6.3 |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
- | MonAgentClientLocation | C:\Packages\Plugins\Microsoft.Azure.Geneva.GenevaMonitoring\2.17.0.2\Monitoring\Agent |
+ | MonAgentClientLocation | C:\Packages\Plugins\Microsoft.Azure.Geneva.GenevaMonitoring\2.18.0.2\Monitoring\Agent |
  | NPM_CONFIG_CACHE | C:\npm\cache |
  | NPM_CONFIG_PREFIX | C:\npm\prefix |
  | NUMBER_OF_PROCESSORS | 2 |
@@ -90,9 +90,9 @@
  | PHPROOT | c:\tools\php |
  | POWERSHELL_DISTRIBUTION_CHANNEL | GitHub-Actions-win19 |
  | PROCESSOR_ARCHITECTURE | AMD64 |
- | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 79 Stepping 1, GenuineIntel |
+ | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 63 Stepping 2, GenuineIntel |
  | PROCESSOR_LEVEL | 6 |
- | PROCESSOR_REVISION | 4f01 |
+ | PROCESSOR_REVISION | 3f02 |
  | ProgramData | C:\ProgramData |
  | ProgramFiles | C:\Program Files |
  | ProgramFiles(x86) | C:\Program Files (x86) |
@@ -104,7 +104,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:/hostedtoolcache/windows |
- | RUNNER_TRACKING_ID | github_cc01f6d1-fa81-48e2-bd97-1e12d750b68a |
+ | RUNNER_TRACKING_ID | github_e1d828a5-7dfd-4a71-8e67-eb99b01c00cd |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server-standalone.jar |
