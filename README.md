@@ -21,7 +21,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | fv-az153 |
+ | COMPUTERNAME | fv-az165 |
  | ComSpec | C:\windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DEPLOYMENT_BASEPATH | C:\actions |
@@ -35,18 +35,18 @@
  | GITHUB_ACTOR | ZiYuCai1984 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_e22cdc6c-1172-431c-9d3c-d3da8b2c8842 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_e07af750-fe2b-4e34-9987-a3b219d816c5 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_e22cdc6c-1172-431c-9d3c-d3da8b2c8842 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_e07af750-fe2b-4e34-9987-a3b219d816c5 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REPOSITORY | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
- | GITHUB_RUN_ID | 260144620 |
- | GITHUB_RUN_NUMBER | 56 |
+ | GITHUB_RUN_ID | 261870364 |
+ | GITHUB_RUN_NUMBER | 57 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
  | GITHUB_WORKFLOW | Auto Push |
@@ -71,12 +71,12 @@
  | JAVA_HOME_7_X64 | C:\Program Files\Java\zulu-7-azure-jdk_7.31.0.5-7.0.232-win_x64 |
  | JAVA_HOME_8_X64 | C:\Program Files\Java\jdk8u265-b01 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\fv-az153 |
+ | LOGONSERVER | \\fv-az165 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.6.3\bin |
  | M2_HOME | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.6.3 |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
- | MonAgentClientLocation | C:\Packages\Plugins\Microsoft.Azure.Geneva.GenevaMonitoring\2.19.0.1\Monitoring\Agent |
+ | MonAgentClientLocation | C:\Packages\Plugins\Microsoft.Azure.Geneva.GenevaMonitoring\2.17.0.2\Monitoring\Agent |
  | NPM_CONFIG_CACHE | C:\npm\cache |
  | NPM_CONFIG_PREFIX | C:\npm\prefix |
  | NUMBER_OF_PROCESSORS | 2 |
@@ -106,7 +106,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:/hostedtoolcache/windows |
- | RUNNER_TRACKING_ID | github_de2110d3-f32f-4441-9966-e39f4efb2cfb |
+ | RUNNER_TRACKING_ID | github_a6a76f04-5c84-4dba-9cbc-4d7578463b99 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server-standalone.jar |
@@ -114,8 +114,8 @@
  | SystemRoot | C:\windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | fv-az153 |
- | USERDOMAIN_ROAMINGPROFILE | fv-az153 |
+ 0 | USERDOMAIN | fv-az165 |
+ | USERDOMAIN_ROAMINGPROFILE | fv-az165 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
