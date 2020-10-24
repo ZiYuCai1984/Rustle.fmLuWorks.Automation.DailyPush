@@ -36,19 +36,19 @@
  | GITHUB_ACTOR | ZiYuCai1984 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_00a5944b-9760-4280-9e65-f8adfb494e06 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_6ab38438-5711-4b76-afd5-a9237273e58f |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_00a5944b-9760-4280-9e65-f8adfb494e06 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_6ab38438-5711-4b76-afd5-a9237273e58f |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REPOSITORY | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
  | GITHUB_RETENTION_DAYS | 90 |
- | GITHUB_RUN_ID | 325037944 |
- | GITHUB_RUN_NUMBER | 92 |
+ | GITHUB_RUN_ID | 326491965 |
+ | GITHUB_RUN_NUMBER | 93 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
  | GITHUB_WORKFLOW | Auto Push |
@@ -94,9 +94,9 @@
  | PHPROOT | c:\tools\php |
  | POWERSHELL_DISTRIBUTION_CHANNEL | GitHub-Actions-win19 |
  | PROCESSOR_ARCHITECTURE | AMD64 |
- | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 79 Stepping 1, GenuineIntel |
+ | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 85 Stepping 4, GenuineIntel |
  | PROCESSOR_LEVEL | 6 |
- | PROCESSOR_REVISION | 4f01 |
+ | PROCESSOR_REVISION | 5504 |
  | ProgramData | C:\ProgramData |
  | ProgramFiles | C:\Program Files |
  | ProgramFiles(x86) | C:\Program Files (x86) |
@@ -108,7 +108,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:/hostedtoolcache/windows |
- | RUNNER_TRACKING_ID | github_12de51e2-f629-4a71-8009-b7be0d378c10 |
+ | RUNNER_TRACKING_ID | github_7207ece5-68e5-4fde-aa7e-41f9cc4b6f2f |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server-standalone.jar |
