@@ -37,19 +37,19 @@
  | GITHUB_ACTOR | ZiYuCai1984 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_5d22d074-986a-4ee4-b4c2-34a44b0e9830 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_c5f7d406-8d56-4f6f-8d52-d42af0b4eb5d |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_5d22d074-986a-4ee4-b4c2-34a44b0e9830 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_c5f7d406-8d56-4f6f-8d52-d42af0b4eb5d |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REPOSITORY | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
  | GITHUB_RETENTION_DAYS | 90 |
- | GITHUB_RUN_ID | 379871792 |
- | GITHUB_RUN_NUMBER | 123 |
+ | GITHUB_RUN_ID | 382013832 |
+ | GITHUB_RUN_NUMBER | 124 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
  | GITHUB_WORKFLOW | Auto Push |
@@ -112,7 +112,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:/hostedtoolcache/windows |
- | RUNNER_TRACKING_ID | github_3229e634-a42b-4a90-ac53-3b37884e3b18 |
+ | RUNNER_TRACKING_ID | github_9889d0d5-374b-4fd5-a2a0-7c4bf3de328f |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server-standalone.jar |
