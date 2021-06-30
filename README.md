@@ -31,26 +31,26 @@
  | EdgeWebDriver | C:\SeleniumWebDrivers\EdgeDriver |
  | GCM_INTERACTIVE | Never |
  | GeckoWebDriver | C:\SeleniumWebDrivers\GeckoDriver |
- | GITHUB_ACTION | run |
+ | GITHUB_ACTION | __run |
  | GITHUB_ACTION_REF |  |
  | GITHUB_ACTION_REPOSITORY |  |
  | GITHUB_ACTIONS | true |
  | GITHUB_ACTOR | ZiYuCai1984 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_a8768591-6b7b-4d7a-9143-6daf0c1b3244 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_8b20d764-e378-4c17-b080-306f9129f67a |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_a8768591-6b7b-4d7a-9143-6daf0c1b3244 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_8b20d764-e378-4c17-b080-306f9129f67a |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REPOSITORY | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
  | GITHUB_RETENTION_DAYS | 90 |
- | GITHUB_RUN_ID | 984325157 |
- | GITHUB_RUN_NUMBER | 341 |
+ | GITHUB_RUN_ID | 987959627 |
+ | GITHUB_RUN_NUMBER | 342 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
  | GITHUB_WORKFLOW | Auto Push |
@@ -107,7 +107,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_51ad5af6-2302-4164-a120-4868bcbac144 |
+ | RUNNER_TRACKING_ID | github_097803ef-908e-48c3-97be-c55c412e8d51 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server-standalone.jar |
