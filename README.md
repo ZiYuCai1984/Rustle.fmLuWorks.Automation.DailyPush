@@ -22,7 +22,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | fv-az159-847 |
+ | COMPUTERNAME | fv-az159-474 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DEPLOYMENT_BASEPATH | C:\actions |
@@ -38,19 +38,19 @@
  | GITHUB_ACTOR | ZiYuCai1984 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_213b1084-e8c9-49db-8034-ccf78cb45587 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_2fed293d-466b-4a5c-a671-30d8b86c5bcb |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_213b1084-e8c9-49db-8034-ccf78cb45587 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_2fed293d-466b-4a5c-a671-30d8b86c5bcb |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REPOSITORY | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
  | GITHUB_RETENTION_DAYS | 90 |
- | GITHUB_RUN_ID | 1114518871 |
- | GITHUB_RUN_NUMBER | 382 |
+ | GITHUB_RUN_ID | 1118100638 |
+ | GITHUB_RUN_NUMBER | 383 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
  | GITHUB_WORKFLOW | Auto Push |
@@ -70,7 +70,7 @@
  | JAVA_HOME_13_X64 | C:\hostedtoolcache\windows\Java_Adopt_jdk\13.0.2-8.1\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Adopt_jdk\8.0.292-10\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\fv-az159-847 |
+ | LOGONSERVER | \\fv-az159-474 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.1\bin |
  | M2_HOME | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.1 |
  | M2_REPO | C:\ProgramData\m2 |
@@ -107,7 +107,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_5b522a88-bd95-4f7e-a87d-51a024964f17 |
+ | RUNNER_TRACKING_ID | github_fbab0545-5a67-4093-908d-f78eca6c4761 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server-standalone.jar |
@@ -115,8 +115,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | fv-az159-847 |
- | USERDOMAIN_ROAMINGPROFILE | fv-az159-847 |
+ 0 | USERDOMAIN | fv-az159-474 |
+ | USERDOMAIN_ROAMINGPROFILE | fv-az159-474 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
