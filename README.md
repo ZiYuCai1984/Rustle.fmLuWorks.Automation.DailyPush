@@ -38,19 +38,19 @@
  | GITHUB_ACTOR | ZiYuCai1984 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_2fed293d-466b-4a5c-a671-30d8b86c5bcb |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_bf0b5c4f-7491-4e39-87a7-00702e9a037d |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_2fed293d-466b-4a5c-a671-30d8b86c5bcb |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_bf0b5c4f-7491-4e39-87a7-00702e9a037d |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REPOSITORY | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
  | GITHUB_RETENTION_DAYS | 90 |
- | GITHUB_RUN_ID | 1118100638 |
- | GITHUB_RUN_NUMBER | 383 |
+ | GITHUB_RUN_ID | 1121813431 |
+ | GITHUB_RUN_NUMBER | 384 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
  | GITHUB_WORKFLOW | Auto Push |
@@ -93,9 +93,9 @@
  | POWERSHELL_DISTRIBUTION_CHANNEL | GitHub-Actions-win19 |
  | POWERSHELL_UPDATECHECK | Off |
  | PROCESSOR_ARCHITECTURE | AMD64 |
- | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 79 Stepping 1, GenuineIntel |
+ | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 85 Stepping 4, GenuineIntel |
  | PROCESSOR_LEVEL | 6 |
- | PROCESSOR_REVISION | 4f01 |
+ | PROCESSOR_REVISION | 5504 |
  | ProgramData | C:\ProgramData |
  | ProgramFiles | C:\Program Files |
  | ProgramFiles(x86) | C:\Program Files (x86) |
@@ -107,7 +107,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_fbab0545-5a67-4093-908d-f78eca6c4761 |
+ | RUNNER_TRACKING_ID | github_8fc745f2-c4e3-47eb-9dc9-30d0cf4f26b3 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server-standalone.jar |
