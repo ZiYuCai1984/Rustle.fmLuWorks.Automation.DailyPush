@@ -16,14 +16,14 @@
  | APPDATA | C:\Users\runneradmin\AppData\Roaming |
  | AZURE_EXTENSION_DIR | C:\Program Files\Common Files\AzureCliExtensionDirectory |
  | ChocolateyInstall | C:\ProgramData\chocolatey |
- | ChocolateyLastPathUpdate | 132798175668430666 |
+ | ChocolateyLastPathUpdate | 132802563925791966 |
  | ChromeWebDriver | C:\SeleniumWebDrivers\ChromeDriver |
  | CI | true |
  | COBERTURA_HOME | C:\cobertura-2.1.1 |
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | fv-az159-541 |
+ | COMPUTERNAME | fv-az159-876 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DEPLOYMENT_BASEPATH | C:\actions |
@@ -39,20 +39,20 @@
  | GITHUB_ACTOR | ZiYuCai1984 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_16212e01-2f3b-4a81-9777-732ce7637fcb |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_e208a30c-7279-4b3b-8cf4-7efe2a0193b8 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_16212e01-2f3b-4a81-9777-732ce7637fcb |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_e208a30c-7279-4b3b-8cf4-7efe2a0193b8 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REPOSITORY | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 1405686943 |
- | GITHUB_RUN_NUMBER | 465 |
+ | GITHUB_RUN_ID | 1409900741 |
+ | GITHUB_RUN_NUMBER | 466 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
  | GITHUB_WORKFLOW | Auto Push |
@@ -74,7 +74,7 @@
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.0-35\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.302-8\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\fv-az159-541 |
+ | LOGONSERVER | \\fv-az159-876 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.3\bin |
  | M2_HOME | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.3 |
  | M2_REPO | C:\ProgramData\m2 |
@@ -112,7 +112,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_86ecc178-9b21-457c-9247-9de3616a8e1e |
+ | RUNNER_TRACKING_ID | github_d83f9689-4127-4faf-a11e-b919a2542491 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server-standalone.jar |
@@ -120,8 +120,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | fv-az159-541 |
- | USERDOMAIN_ROAMINGPROFILE | fv-az159-541 |
+ 0 | USERDOMAIN | fv-az159-876 |
+ | USERDOMAIN_ROAMINGPROFILE | fv-az159-876 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
