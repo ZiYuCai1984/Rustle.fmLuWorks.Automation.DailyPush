@@ -41,13 +41,13 @@
  | GITHUB_ACTOR | ZiYuCai1984 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_560328ea-3e4c-458e-bcce-e22dc002ac47 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_281fa824-dfae-4543-b1d0-3c91fbf73dc9 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_560328ea-3e4c-458e-bcce-e22dc002ac47 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_281fa824-dfae-4543-b1d0-3c91fbf73dc9 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -56,11 +56,11 @@
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 1942486130 |
- | GITHUB_RUN_NUMBER | 590 |
+ | GITHUB_RUN_ID | 1948243694 |
+ | GITHUB_RUN_NUMBER | 591 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_560328ea-3e4c-458e-bcce-e22dc002ac47 |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_281fa824-dfae-4543-b1d0-3c91fbf73dc9 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | GOROOT_1_15_X64 | C:\hostedtoolcache\windows\go\1.15.15\x64 |
@@ -115,7 +115,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_e06d97a0-e9eb-4d1d-a38b-49c699e3d24d |
+ | RUNNER_TRACKING_ID | github_5e72400b-a8ef-4dab-aeb8-d4c8b39a9d42 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
