@@ -23,7 +23,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | fv-az405-748 |
+ | COMPUTERNAME | fv-az89-842 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DEPLOYMENT_BASEPATH | C:\actions |
@@ -41,14 +41,14 @@
  | GITHUB_ACTOR | ZiYuCai1984 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_c49c90dc-bdb2-429f-afde-9754d9385649 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_7d4db4cd-885b-48f5-a87b-fbecf65ee99c |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_c49c90dc-bdb2-429f-afde-9754d9385649 |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_c49c90dc-bdb2-429f-afde-9754d9385649 |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_7d4db4cd-885b-48f5-a87b-fbecf65ee99c |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_7d4db4cd-885b-48f5-a87b-fbecf65ee99c |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -57,12 +57,12 @@
  | GITHUB_REPOSITORY_OWNER | ZiYuCai1984 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 3610450847 |
- | GITHUB_RUN_NUMBER | 862 |
+ | GITHUB_RUN_ID | 3615309990 |
+ | GITHUB_RUN_NUMBER | 863 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
- | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_c49c90dc-bdb2-429f-afde-9754d9385649 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_c49c90dc-bdb2-429f-afde-9754d9385649 |
+ | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_7d4db4cd-885b-48f5-a87b-fbecf65ee99c |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_7d4db4cd-885b-48f5-a87b-fbecf65ee99c |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal\Rustle.fmLuWorks.Automation.DailyPush.Internal |
@@ -80,7 +80,7 @@
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.5-8\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.352-8\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\fv-az405-748 |
+ | LOGONSERVER | \\fv-az89-842 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.6\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -117,17 +117,18 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_a8e121e0-dc2f-453e-9143-a6e107832a39 |
+ | RUNNER_TRACKING_ID | github_18f85a89-d9d9-4bed-ae98-d37541da4205 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
+ | STATS_PFS | true |
  | STATS_RDCL | true |
  | SystemDrive | C: |
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | fv-az405-748 |
- | USERDOMAIN_ROAMINGPROFILE | fv-az405-748 |
+ 0 | USERDOMAIN | fv-az89-842 |
+ | USERDOMAIN_ROAMINGPROFILE | fv-az89-842 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
