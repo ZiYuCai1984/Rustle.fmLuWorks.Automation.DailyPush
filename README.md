@@ -23,7 +23,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | fv-az411-823 |
+ | COMPUTERNAME | fv-az435-330 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DEPLOYMENT_BASEPATH | C:\actions |
@@ -44,14 +44,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_244e81f8-986c-4017-ba74-ce4d111a5624 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_cdef0c8d-5647-43f3-be83-cc75725fd89a |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_244e81f8-986c-4017-ba74-ce4d111a5624 |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_244e81f8-986c-4017-ba74-ce4d111a5624 |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_cdef0c8d-5647-43f3-be83-cc75725fd89a |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_cdef0c8d-5647-43f3-be83-cc75725fd89a |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -62,12 +62,12 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 5193829779 |
- | GITHUB_RUN_NUMBER | 1047 |
+ | GITHUB_RUN_ID | 5205231662 |
+ | GITHUB_RUN_NUMBER | 1048 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
- | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_244e81f8-986c-4017-ba74-ce4d111a5624 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_244e81f8-986c-4017-ba74-ce4d111a5624 |
+ | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_cdef0c8d-5647-43f3-be83-cc75725fd89a |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_cdef0c8d-5647-43f3-be83-cc75725fd89a |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -87,7 +87,7 @@
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.7-7\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.372-7\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\fv-az411-823 |
+ | LOGONSERVER | \\fv-az435-330 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.7\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -108,9 +108,9 @@
  | POWERSHELL_DISTRIBUTION_CHANNEL | GitHub-Actions-win22 |
  | POWERSHELL_UPDATECHECK | Off |
  | PROCESSOR_ARCHITECTURE | AMD64 |
- | PROCESSOR_IDENTIFIER | AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD |
- | PROCESSOR_LEVEL | 23 |
- | PROCESSOR_REVISION | 3100 |
+ | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 106 Stepping 6, GenuineIntel |
+ | PROCESSOR_LEVEL | 6 |
+ | PROCESSOR_REVISION | 6a06 |
  | ProgramData | C:\ProgramData |
  | ProgramFiles | C:\Program Files |
  | ProgramFiles(x86) | C:\Program Files (x86) |
@@ -124,7 +124,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_7325c90d-f76d-4c16-9f01-1c1d41ee1c91 |
+ | RUNNER_TRACKING_ID | github_2c8ee559-1d08-431c-8b26-f325df078375 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
@@ -139,8 +139,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | fv-az411-823 |
- | USERDOMAIN_ROAMINGPROFILE | fv-az411-823 |
+ 0 | USERDOMAIN | fv-az435-330 |
+ | USERDOMAIN_ROAMINGPROFILE | fv-az435-330 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
