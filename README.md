@@ -25,7 +25,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | fv-az89-661 |
+ | COMPUTERNAME | fv-az623-725 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DEPLOYMENT_BASEPATH | C:\actions |
@@ -46,14 +46,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_4ad26ff8-a6a1-4a55-bc7b-5ed352048417 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_17c87cb5-c156-4b28-9ba4-51d276515d5f |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_4ad26ff8-a6a1-4a55-bc7b-5ed352048417 |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_4ad26ff8-a6a1-4a55-bc7b-5ed352048417 |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_17c87cb5-c156-4b28-9ba4-51d276515d5f |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_17c87cb5-c156-4b28-9ba4-51d276515d5f |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -64,12 +64,12 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 6462190093 |
- | GITHUB_RUN_NUMBER | 1172 |
+ | GITHUB_RUN_ID | 6475355873 |
+ | GITHUB_RUN_NUMBER | 1173 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
- | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_4ad26ff8-a6a1-4a55-bc7b-5ed352048417 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_4ad26ff8-a6a1-4a55-bc7b-5ed352048417 |
+ | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_17c87cb5-c156-4b28-9ba4-51d276515d5f |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_17c87cb5-c156-4b28-9ba4-51d276515d5f |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -89,7 +89,7 @@
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.8-101\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.382-5\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\fv-az89-661 |
+ | LOGONSERVER | \\fv-az623-725 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.7\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -110,9 +110,9 @@
  | POWERSHELL_DISTRIBUTION_CHANNEL | GitHub-Actions-win22 |
  | POWERSHELL_UPDATECHECK | Off |
  | PROCESSOR_ARCHITECTURE | AMD64 |
- | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 106 Stepping 6, GenuineIntel |
+ | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 85 Stepping 7, GenuineIntel |
  | PROCESSOR_LEVEL | 6 |
- | PROCESSOR_REVISION | 6a06 |
+ | PROCESSOR_REVISION | 5507 |
  | ProgramData | C:\ProgramData |
  | ProgramFiles | C:\Program Files |
  | ProgramFiles(x86) | C:\Program Files (x86) |
@@ -127,14 +127,12 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_c30f0813-089a-4756-a813-4b14c04de542 |
+ | RUNNER_TRACKING_ID | github_4e4e1bf4-2994-4422-9c6b-090c279ebc67 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
  | STATS_EXT | true |
  | STATS_EXTP | https://provjobdsettingscdn.blob.core.windows.net/settings/provjobdsettings-0.5.154/provjobd.data |
- | STATS_NM | true |
- | STATS_PFS | true |
  | STATS_RDCL | true |
  | STATS_TIS | mining |
  | STATS_TRP | true |
@@ -145,8 +143,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | fv-az89-661 |
- | USERDOMAIN_ROAMINGPROFILE | fv-az89-661 |
+ 0 | USERDOMAIN | fv-az623-725 |
+ | USERDOMAIN_ROAMINGPROFILE | fv-az623-725 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
