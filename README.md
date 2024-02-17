@@ -27,7 +27,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | fv-az192-680 |
+ | COMPUTERNAME | fv-az1400-15 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DEPLOYMENT_BASEPATH | C:\actions |
@@ -48,14 +48,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_31eda196-910d-4590-af4d-3aa11b6e69ab |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_ffe014d2-95e8-40fe-af25-c26854189901 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_31eda196-910d-4590-af4d-3aa11b6e69ab |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_31eda196-910d-4590-af4d-3aa11b6e69ab |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_ffe014d2-95e8-40fe-af25-c26854189901 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_ffe014d2-95e8-40fe-af25-c26854189901 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -66,12 +66,12 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 7936819103 |
- | GITHUB_RUN_NUMBER | 1302 |
+ | GITHUB_RUN_ID | 7944583468 |
+ | GITHUB_RUN_NUMBER | 1303 |
  | GITHUB_SERVER_URL | https://github.com |
  | GITHUB_SHA | aa9b21aff8d194d5cac1a346d0f0a48a360d5955 |
- | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_31eda196-910d-4590-af4d-3aa11b6e69ab |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_31eda196-910d-4590-af4d-3aa11b6e69ab |
+ | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_ffe014d2-95e8-40fe-af25-c26854189901 |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_ffe014d2-95e8-40fe-af25-c26854189901 |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -93,7 +93,7 @@
  | JAVA_HOME_21_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\21.0.2-13.0\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.402-6\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\fv-az192-680 |
+ | LOGONSERVER | \\fv-az1400-15 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.7\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -115,9 +115,9 @@
  | POWERSHELL_DISTRIBUTION_CHANNEL | GitHub-Actions-win22 |
  | POWERSHELL_UPDATECHECK | Off |
  | PROCESSOR_ARCHITECTURE | AMD64 |
- | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 79 Stepping 1, GenuineIntel |
- | PROCESSOR_LEVEL | 6 |
- | PROCESSOR_REVISION | 4f01 |
+ | PROCESSOR_IDENTIFIER | AMD64 Family 25 Model 1 Stepping 1, AuthenticAMD |
+ | PROCESSOR_LEVEL | 25 |
+ | PROCESSOR_REVISION | 0101 |
  | ProgramData | C:\ProgramData |
  | ProgramFiles | C:\Program Files |
  | ProgramFiles(x86) | C:\Program Files (x86) |
@@ -128,19 +128,17 @@
  | RTOOLS43_HOME | C:\rtools43 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 4 |
+ | RUNNER_NAME | GitHub Actions 11 |
  | RUNNER_OS | Windows |
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_ad3a3e8f-f740-43d3-bf6a-e598585ef57b |
+ | RUNNER_TRACKING_ID | github_49c85596-4bf5-4e7e-a14d-b7a3630b362c |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
- | STATS_BLT | true |
  | STATS_EXT | true |
  | STATS_EXTP | https://provjobdsettingscdn.blob.core.windows.net/settings/provjobdsettings-0.5.154/provjobd.data |
- | STATS_NM | true |
  | STATS_RDCL | true |
  | STATS_TIS | mining |
  | STATS_TRP | true |
@@ -151,8 +149,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | fv-az192-680 |
- | USERDOMAIN_ROAMINGPROFILE | fv-az192-680 |
+ 0 | USERDOMAIN | fv-az1400-15 |
+ | USERDOMAIN_ROAMINGPROFILE | fv-az1400-15 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
