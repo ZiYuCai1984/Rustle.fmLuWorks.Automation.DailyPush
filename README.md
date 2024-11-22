@@ -28,7 +28,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | fv-az1506-289 |
+ | COMPUTERNAME | fv-az1050-432 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DEPLOYMENT_BASEPATH | C:\actions |
@@ -49,14 +49,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_991d5533-f1ba-4ac0-bb5f-f5aacafd1a8d |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_010f69ff-f961-4280-be24-1adcf2a023ba |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_991d5533-f1ba-4ac0-bb5f-f5aacafd1a8d |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_991d5533-f1ba-4ac0-bb5f-f5aacafd1a8d |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_010f69ff-f961-4280-be24-1adcf2a023ba |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_010f69ff-f961-4280-be24-1adcf2a023ba |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -67,11 +67,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 11962587897 |
- | GITHUB_RUN_NUMBER | 1584 |
+ | GITHUB_RUN_ID | 11980979756 |
+ | GITHUB_RUN_NUMBER | 1585 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_991d5533-f1ba-4ac0-bb5f-f5aacafd1a8d |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_991d5533-f1ba-4ac0-bb5f-f5aacafd1a8d |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_010f69ff-f961-4280-be24-1adcf2a023ba |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_010f69ff-f961-4280-be24-1adcf2a023ba |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -92,7 +92,7 @@
  | JAVA_HOME_21_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\21.0.5-11.0\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.432-6\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\fv-az1506-289 |
+ | LOGONSERVER | \\fv-az1050-432 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.7\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -126,17 +126,18 @@
  | RTOOLS44_HOME | C:\rtools44 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 19 |
+ | RUNNER_NAME | GitHub Actions 18 |
  | RUNNER_OS | Windows |
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_1eeab986-8995-4c9e-8421-8e7cf48de1e4 |
+ | RUNNER_TRACKING_ID | github_ef86135d-001f-4619-91af-e3ad0c6e3c8c |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
  | STATS_D | true |
  | STATS_D_D | true |
+ | STATS_D_TC | true |
  | STATS_EXT | true |
  | STATS_EXTP | https://provjobdprod.z13.web.core.windows.net/settings/provjobdsettings-latest/provjobd.data |
  | STATS_PIP | false |
@@ -150,8 +151,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | fv-az1506-289 |
- | USERDOMAIN_ROAMINGPROFILE | fv-az1506-289 |
+ 0 | USERDOMAIN | fv-az1050-432 |
+ | USERDOMAIN_ROAMINGPROFILE | fv-az1050-432 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
