@@ -28,7 +28,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | fv-az671-770 |
+ | COMPUTERNAME | fv-az790-425 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DEPLOYMENT_BASEPATH | C:\actions |
@@ -49,14 +49,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_5b36998c-6362-4ab2-89d6-e74ece22a7c0 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_8ebaac85-5d5f-43ab-b047-82f9cccc13c7 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_5b36998c-6362-4ab2-89d6-e74ece22a7c0 |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_5b36998c-6362-4ab2-89d6-e74ece22a7c0 |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_8ebaac85-5d5f-43ab-b047-82f9cccc13c7 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_8ebaac85-5d5f-43ab-b047-82f9cccc13c7 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -67,11 +67,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 12918046656 |
- | GITHUB_RUN_NUMBER | 1646 |
+ | GITHUB_RUN_ID | 12939056343 |
+ | GITHUB_RUN_NUMBER | 1647 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_5b36998c-6362-4ab2-89d6-e74ece22a7c0 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_5b36998c-6362-4ab2-89d6-e74ece22a7c0 |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_8ebaac85-5d5f-43ab-b047-82f9cccc13c7 |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_8ebaac85-5d5f-43ab-b047-82f9cccc13c7 |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -85,14 +85,14 @@
  | HOMEPATH | \Users\runneradmin |
  | IEWebDriver | C:\SeleniumWebDrivers\IEDriver |
  | ImageOS | win22 |
- | ImageVersion | 20250113.1.0 |
+ | ImageVersion | 20250120.2.0 |
  | JAVA_HOME | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.432-6\x64 |
  | JAVA_HOME_11_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\11.0.25-9\x64 |
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.13-11\x64 |
  | JAVA_HOME_21_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\21.0.5-11.0\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.432-6\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\fv-az671-770 |
+ | LOGONSERVER | \\fv-az790-425 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.9\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -121,17 +121,17 @@
  | ProgramFiles(x86) | C:\Program Files (x86) |
  | ProgramW6432 | C:\Program Files |
  | PSModuleAnalysisCachePath | C:\PSModuleAnalysisCachePath\ModuleAnalysisCache |
- | PSModulePath | C:\Users\runneradmin\Documents\WindowsPowerShell\Modules;C:\\Modules\azurerm_2.1.0;C:\\Modules\azure_2.1.0;C:\Users\packer\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Microsoft SQL Server\130\Tools\PowerShell\Modules\ |
+ | PSModulePath | C:\Users\runneradmin\Documents\WindowsPowerShell\Modules;C:\\Modules\azurerm_6.13.1;C:\\Modules\azure_5.3.0;C:\Users\packer\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Microsoft SQL Server\130\Tools\PowerShell\Modules\ |
  | PUBLIC | C:\Users\Public |
  | RTOOLS44_HOME | C:\rtools44 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 10 |
+ | RUNNER_NAME | GitHub Actions 20 |
  | RUNNER_OS | Windows |
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_ff456d46-cd24-4b15-bfec-b60018af483a |
+ | RUNNER_TRACKING_ID | github_43c8ec7d-cb81-4f79-b60d-280e73a10413 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
@@ -151,8 +151,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | fv-az671-770 |
- | USERDOMAIN_ROAMINGPROFILE | fv-az671-770 |
+ 0 | USERDOMAIN | fv-az790-425 |
+ | USERDOMAIN_ROAMINGPROFILE | fv-az790-425 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
