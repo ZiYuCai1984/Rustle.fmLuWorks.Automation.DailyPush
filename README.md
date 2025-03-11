@@ -28,7 +28,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | fv-az1506-304 |
+ | COMPUTERNAME | fv-az1045-171 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DEPLOYMENT_BASEPATH | C:\actions |
@@ -49,14 +49,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_549de681-1fda-435d-948e-657b4e8bdee4 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_a5c37d98-b575-44c9-85dc-46a5a0a7a9e7 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_549de681-1fda-435d-948e-657b4e8bdee4 |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_549de681-1fda-435d-948e-657b4e8bdee4 |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_a5c37d98-b575-44c9-85dc-46a5a0a7a9e7 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_a5c37d98-b575-44c9-85dc-46a5a0a7a9e7 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -67,11 +67,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 13775843309 |
- | GITHUB_RUN_NUMBER | 1693 |
+ | GITHUB_RUN_ID | 13799279500 |
+ | GITHUB_RUN_NUMBER | 1694 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_549de681-1fda-435d-948e-657b4e8bdee4 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_549de681-1fda-435d-948e-657b4e8bdee4 |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_a5c37d98-b575-44c9-85dc-46a5a0a7a9e7 |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_a5c37d98-b575-44c9-85dc-46a5a0a7a9e7 |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -79,20 +79,20 @@
  | GOROOT_1_20_X64 | C:\hostedtoolcache\windows\go\1.20.14\x64 |
  | GOROOT_1_21_X64 | C:\hostedtoolcache\windows\go\1.21.13\x64 |
  | GOROOT_1_22_X64 | C:\hostedtoolcache\windows\go\1.22.12\x64 |
- | GOROOT_1_23_X64 | C:\hostedtoolcache\windows\go\1.23.6\x64 |
+ | GOROOT_1_23_X64 | C:\hostedtoolcache\windows\go\1.23.7\x64 |
  | GRADLE_HOME | C:\ProgramData\chocolatey\lib\gradle\tools\gradle-8.13 |
  | HOMEDRIVE | C: |
  | HOMEPATH | \Users\runneradmin |
  | IEWebDriver | C:\SeleniumWebDrivers\IEDriver |
  | ImageOS | win22 |
- | ImageVersion | 20250303.1.0 |
+ | ImageVersion | 20250309.1.0 |
  | JAVA_HOME | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.442-6\x64 |
  | JAVA_HOME_11_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\11.0.26-4\x64 |
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.14-7\x64 |
  | JAVA_HOME_21_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\21.0.6-7.0\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.442-6\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\fv-az1506-304 |
+ | LOGONSERVER | \\fv-az1045-171 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.9\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -131,7 +131,7 @@
  | RUNNER_PERFLOG | C:\actions\perflog |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_5e5e81f0-aa17-4477-8756-782cb76ae8a0 |
+ | RUNNER_TRACKING_ID | github_a201c3af-3e1c-48cd-8118-8513a7343866 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
@@ -151,8 +151,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | fv-az1506-304 |
- | USERDOMAIN_ROAMINGPROFILE | fv-az1506-304 |
+ 0 | USERDOMAIN | fv-az1045-171 |
+ | USERDOMAIN_ROAMINGPROFILE | fv-az1045-171 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
