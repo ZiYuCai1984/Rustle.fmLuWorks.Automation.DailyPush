@@ -28,7 +28,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | runnervmazg29 |
+ | COMPUTERNAME | runnervmk2jw4 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DOTNET_MULTILEVEL_LOOKUP | 0 |
@@ -49,14 +49,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_68382d0e-ed1e-4e08-a99f-28f395bd2de6 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_04accee8-cb27-41b9-aacd-58293fcfeb6e |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_68382d0e-ed1e-4e08-a99f-28f395bd2de6 |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_68382d0e-ed1e-4e08-a99f-28f395bd2de6 |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_04accee8-cb27-41b9-aacd-58293fcfeb6e |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_04accee8-cb27-41b9-aacd-58293fcfeb6e |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -67,11 +67,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 16129089543 |
- | GITHUB_RUN_NUMBER | 1812 |
+ | GITHUB_RUN_ID | 16155572657 |
+ | GITHUB_RUN_NUMBER | 1813 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_68382d0e-ed1e-4e08-a99f-28f395bd2de6 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_68382d0e-ed1e-4e08-a99f-28f395bd2de6 |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_04accee8-cb27-41b9-aacd-58293fcfeb6e |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_04accee8-cb27-41b9-aacd-58293fcfeb6e |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -84,21 +84,21 @@
  | HOMEPATH | \Users\runneradmin |
  | IEWebDriver | C:\SeleniumWebDrivers\IEDriver |
  | ImageOS | win22 |
- | ImageVersion | 20250623.1.0 |
+ | ImageVersion | 20250701.1.0 |
  | JAVA_HOME | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.452-9\x64 |
  | JAVA_HOME_11_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\11.0.27-6\x64 |
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.15-6\x64 |
  | JAVA_HOME_21_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\21.0.7-6.0\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.452-9\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\runnervmazg29 |
+ | LOGONSERVER | \\runnervmk2jw4 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.10\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
  | npm_config_prefix | C:\npm\prefix |
  | NUMBER_OF_PROCESSORS | 2 |
  | OS | Windows_NT |
- | Path | C:\Program Files\PowerShell\7;C:\Program Files\MongoDB\Server\5.0\bin;C:\aliyun-cli;C:\vcpkg;C:\Program Files (x86)\NSIS\;C:\tools\zstd;C:\Program Files\Mercurial\;C:\hostedtoolcache\windows\stack\3.5.1\x64;C:\cabal\bin;C:\\ghcup\bin;C:\mingw64\bin;C:\Program Files\dotnet;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\R\R-4.4.2\bin\x64;C:\SeleniumWebDrivers\GeckoDriver;C:\SeleniumWebDrivers\EdgeDriver\;C:\SeleniumWebDrivers\ChromeDriver;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\GitHub CLI;C:\Program Files\Git\bin;C:\Program Files (x86)\pipx_bin;C:\npm\prefix;C:\hostedtoolcache\windows\go\1.24.4\x64\bin;C:\hostedtoolcache\windows\Python\3.9.13\x64\Scripts;C:\hostedtoolcache\windows\Python\3.9.13\x64;C:\hostedtoolcache\windows\Ruby\3.3.8\x64\bin;C:\Program Files\OpenSSL\bin;C:\tools\kotlinc\bin;C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.452-9\x64\bin;C:\Program Files\ImageMagick-7.1.1-Q16-HDRI;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\kind;C:\ProgramData\Chocolatey\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\PowerShell\7\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\ProgramData\chocolatey\lib\pulumi\tools\Pulumi\bin;C:\Program Files\CMake\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.10\bin;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\GitHub CLI\;c:\tools\php;C:\Program Files (x86)\sbt\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Amazon\SessionManagerPlugin\bin\;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\LLVM\bin;C:\Users\runneradmin\.dotnet\tools;C:\Users\runneradmin\.cargo\bin;C:\Users\runneradmin\AppData\Local\Microsoft\WindowsApps |
+ | Path | C:\Program Files\PowerShell\7;C:\Program Files\MongoDB\Server\5.0\bin;C:\aliyun-cli;C:\vcpkg;C:\Program Files (x86)\NSIS\;C:\tools\zstd;C:\Program Files\Mercurial\;C:\hostedtoolcache\windows\stack\3.7.1\x64;C:\cabal\bin;C:\\ghcup\bin;C:\mingw64\bin;C:\Program Files\dotnet;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\R\R-4.4.2\bin\x64;C:\SeleniumWebDrivers\GeckoDriver;C:\SeleniumWebDrivers\EdgeDriver\;C:\SeleniumWebDrivers\ChromeDriver;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\GitHub CLI;C:\Program Files\Git\bin;C:\Program Files (x86)\pipx_bin;C:\npm\prefix;C:\hostedtoolcache\windows\go\1.24.4\x64\bin;C:\hostedtoolcache\windows\Python\3.9.13\x64\Scripts;C:\hostedtoolcache\windows\Python\3.9.13\x64;C:\hostedtoolcache\windows\Ruby\3.3.8\x64\bin;C:\Program Files\OpenSSL\bin;C:\tools\kotlinc\bin;C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.452-9\x64\bin;C:\Program Files\ImageMagick-7.1.1-Q16-HDRI;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\kind;C:\ProgramData\Chocolatey\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\PowerShell\7\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\ProgramData\chocolatey\lib\pulumi\tools\Pulumi\bin;C:\Program Files\CMake\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.10\bin;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\GitHub CLI\;c:\tools\php;C:\Program Files (x86)\sbt\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Amazon\SessionManagerPlugin\bin\;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\LLVM\bin;C:\Program Files (x86)\LLVM\bin;C:\Users\runneradmin\.dotnet\tools;C:\Users\runneradmin\.cargo\bin;C:\Users\runneradmin\AppData\Local\Microsoft\WindowsApps |
  | PATHEXT | .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL |
  | PGBIN | C:\Program Files\PostgreSQL\14\bin |
  | PGDATA | C:\Program Files\PostgreSQL\14\data |
@@ -119,16 +119,16 @@
  | ProgramFiles(x86) | C:\Program Files (x86) |
  | ProgramW6432 | C:\Program Files |
  | PSModuleAnalysisCachePath | C:\PSModuleAnalysisCachePath\ModuleAnalysisCache |
- | PSModulePath | C:\Users\runneradmin\Documents\WindowsPowerShell\Modules;C:\\Modules\az_12.4.0;C:\Users\packer\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Microsoft SQL Server\130\Tools\PowerShell\Modules\ |
+ | PSModulePath | C:\Users\runneradmin\Documents\WindowsPowerShell\Modules;C:\\Modules\az_12.5.0;C:\Users\packer\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Microsoft SQL Server\130\Tools\PowerShell\Modules\ |
  | PUBLIC | C:\Users\Public |
  | RTOOLS45_HOME | C:\rtools45 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 1000001690 |
+ | RUNNER_NAME | GitHub Actions 1000001699 |
  | RUNNER_OS | Windows |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_7856d6b7-a3df-4f83-a9fc-d80198e87bad |
+ | RUNNER_TRACKING_ID | github_c6acfc14-c092-47bc-b260-2d3b9fde60bc |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
@@ -136,8 +136,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | runnervmazg29 |
- | USERDOMAIN_ROAMINGPROFILE | runnervmazg29 |
+ 0 | USERDOMAIN | runnervmk2jw4 |
+ | USERDOMAIN_ROAMINGPROFILE | runnervmk2jw4 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
