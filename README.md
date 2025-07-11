@@ -11,7 +11,7 @@
  | ANDROID_HOME | C:\Android\android-sdk |
  | ANDROID_NDK | C:\Android\android-sdk\ndk\27.2.12479018 |
  | ANDROID_NDK_HOME | C:\Android\android-sdk\ndk\27.2.12479018 |
- | ANDROID_NDK_LATEST_HOME | C:\Android\android-sdk\ndk\28.1.13356709 |
+ | ANDROID_NDK_LATEST_HOME | C:\Android\android-sdk\ndk\28.2.13676358 |
  | ANDROID_NDK_ROOT | C:\Android\android-sdk\ndk\27.2.12479018 |
  | ANDROID_SDK_ROOT | C:\Android\android-sdk |
  | ANT_HOME | C:\ProgramData\chocolatey\lib\ant\tools\apache-ant-1.10.15 |
@@ -28,7 +28,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | runnervmk2jw4 |
+ | COMPUTERNAME | runnervm51nrn |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DOTNET_MULTILEVEL_LOOKUP | 0 |
@@ -49,14 +49,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_d840f673-6898-49c1-8ab4-1182cbca31fb |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_8689d92e-89a6-4717-a823-c7f72d489c8b |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_d840f673-6898-49c1-8ab4-1182cbca31fb |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_d840f673-6898-49c1-8ab4-1182cbca31fb |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_8689d92e-89a6-4717-a823-c7f72d489c8b |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_8689d92e-89a6-4717-a823-c7f72d489c8b |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -67,11 +67,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 16207190830 |
- | GITHUB_RUN_NUMBER | 1815 |
+ | GITHUB_RUN_ID | 16230792753 |
+ | GITHUB_RUN_NUMBER | 1816 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_d840f673-6898-49c1-8ab4-1182cbca31fb |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_d840f673-6898-49c1-8ab4-1182cbca31fb |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_8689d92e-89a6-4717-a823-c7f72d489c8b |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_8689d92e-89a6-4717-a823-c7f72d489c8b |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -84,14 +84,14 @@
  | HOMEPATH | \Users\runneradmin |
  | IEWebDriver | C:\SeleniumWebDrivers\IEDriver |
  | ImageOS | win22 |
- | ImageVersion | 20250701.1.0 |
+ | ImageVersion | 20250710.1.0 |
  | JAVA_HOME | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.452-9\x64 |
  | JAVA_HOME_11_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\11.0.27-6\x64 |
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.15-6\x64 |
  | JAVA_HOME_21_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\21.0.7-6.0\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.452-9\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\runnervmk2jw4 |
+ | LOGONSERVER | \\runnervm51nrn |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.10\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -124,11 +124,11 @@
  | RTOOLS45_HOME | C:\rtools45 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 1000001710 |
+ | RUNNER_NAME | GitHub Actions 1000001715 |
  | RUNNER_OS | Windows |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_ee9ef850-eccd-433f-bdf6-50eac55533c3 |
+ | RUNNER_TRACKING_ID | github_3a1f6df9-121b-470e-9905-4a692fb750a6 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
@@ -136,8 +136,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | runnervmk2jw4 |
- | USERDOMAIN_ROAMINGPROFILE | runnervmk2jw4 |
+ 0 | USERDOMAIN | runnervm51nrn |
+ | USERDOMAIN_ROAMINGPROFILE | runnervm51nrn |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
