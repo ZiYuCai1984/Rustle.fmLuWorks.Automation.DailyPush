@@ -49,14 +49,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_e9743a44-2bc8-41be-85a5-d893bdbcadad |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_2ffaf660-1dba-43b2-b357-7b185889a8c7 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_e9743a44-2bc8-41be-85a5-d893bdbcadad |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_e9743a44-2bc8-41be-85a5-d893bdbcadad |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_2ffaf660-1dba-43b2-b357-7b185889a8c7 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_2ffaf660-1dba-43b2-b357-7b185889a8c7 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -67,11 +67,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 16686279576 |
- | GITHUB_RUN_NUMBER | 1837 |
+ | GITHUB_RUN_ID | 16698293694 |
+ | GITHUB_RUN_NUMBER | 1838 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_e9743a44-2bc8-41be-85a5-d893bdbcadad |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_e9743a44-2bc8-41be-85a5-d893bdbcadad |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_2ffaf660-1dba-43b2-b357-7b185889a8c7 |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_2ffaf660-1dba-43b2-b357-7b185889a8c7 |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -124,11 +124,11 @@
  | RTOOLS45_HOME | C:\rtools45 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 1000001835 |
+ | RUNNER_NAME | GitHub Actions 1000001839 |
  | RUNNER_OS | Windows |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_508b6ede-fe51-4d71-91b3-43ff009d3c54 |
+ | RUNNER_TRACKING_ID | github_a2449b04-b860-4c46-9363-b28ac0c83a95 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
