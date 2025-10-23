@@ -28,7 +28,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | runnervmgxiju |
+ | COMPUTERNAME | runnervm8crnl |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DOTNET_MULTILEVEL_LOOKUP | 0 |
@@ -49,14 +49,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_f773bbac-be1f-4d21-b58e-bd867e0574f6 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_d48583b8-7f92-4f22-9cc5-d99452967db0 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_f773bbac-be1f-4d21-b58e-bd867e0574f6 |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_f773bbac-be1f-4d21-b58e-bd867e0574f6 |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_d48583b8-7f92-4f22-9cc5-d99452967db0 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_d48583b8-7f92-4f22-9cc5-d99452967db0 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -67,11 +67,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 18731348076 |
- | GITHUB_RUN_NUMBER | 1919 |
+ | GITHUB_RUN_ID | 18763494080 |
+ | GITHUB_RUN_NUMBER | 1920 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_f773bbac-be1f-4d21-b58e-bd867e0574f6 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_f773bbac-be1f-4d21-b58e-bd867e0574f6 |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_d48583b8-7f92-4f22-9cc5-d99452967db0 |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_d48583b8-7f92-4f22-9cc5-d99452967db0 |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -85,7 +85,7 @@
  | HOMEPATH | \Users\runneradmin |
  | IEWebDriver | C:\SeleniumWebDrivers\IEDriver |
  | ImageOS | win25 |
- | ImageVersion | 20251014.59.1 |
+ | ImageVersion | 20251021.67.1 |
  | JAVA_HOME | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.16-8\x64 |
  | JAVA_HOME_11_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\11.0.28-6\x64 |
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.16-8\x64 |
@@ -93,7 +93,7 @@
  | JAVA_HOME_25_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\25.0.0-36.0\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.462-8\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\runnervmgxiju |
+ | LOGONSERVER | \\runnervm8crnl |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.11\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -126,11 +126,11 @@
  | RTOOLS45_HOME | C:\rtools45 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 1000002238 |
+ | RUNNER_NAME | GitHub Actions 1000002242 |
  | RUNNER_OS | Windows |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_6b14aecb-f2bb-46da-9036-ce08678493f9 |
+ | RUNNER_TRACKING_ID | github_0aa032f4-f60a-489b-974e-4333f814afb3 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
@@ -138,8 +138,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | runnervmgxiju |
- | USERDOMAIN_ROAMINGPROFILE | runnervmgxiju |
+ 0 | USERDOMAIN | runnervm8crnl |
+ | USERDOMAIN_ROAMINGPROFILE | runnervm8crnl |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
