@@ -49,14 +49,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_4da9526d-2a7c-408e-accc-8c79f2e022fb |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_3ad1b4b3-7849-4aad-9c1e-ca0f9de12e70 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_4da9526d-2a7c-408e-accc-8c79f2e022fb |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_4da9526d-2a7c-408e-accc-8c79f2e022fb |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_3ad1b4b3-7849-4aad-9c1e-ca0f9de12e70 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_3ad1b4b3-7849-4aad-9c1e-ca0f9de12e70 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -67,11 +67,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 20472853174 |
- | GITHUB_RUN_NUMBER | 1981 |
+ | GITHUB_RUN_ID | 20494756108 |
+ | GITHUB_RUN_NUMBER | 1982 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_4da9526d-2a7c-408e-accc-8c79f2e022fb |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_4da9526d-2a7c-408e-accc-8c79f2e022fb |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_3ad1b4b3-7849-4aad-9c1e-ca0f9de12e70 |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_3ad1b4b3-7849-4aad-9c1e-ca0f9de12e70 |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -113,9 +113,9 @@
  | POWERSHELL_DISTRIBUTION_CHANNEL | GitHub-Actions-win25 |
  | POWERSHELL_UPDATECHECK | Off |
  | PROCESSOR_ARCHITECTURE | AMD64 |
- | PROCESSOR_IDENTIFIER | AMD64 Family 25 Model 1 Stepping 1, AuthenticAMD |
- | PROCESSOR_LEVEL | 25 |
- | PROCESSOR_REVISION | 0101 |
+ | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 106 Stepping 6, GenuineIntel |
+ | PROCESSOR_LEVEL | 6 |
+ | PROCESSOR_REVISION | 6a06 |
  | ProgramData | C:\ProgramData |
  | ProgramFiles | C:\Program Files |
  | ProgramFiles(x86) | C:\Program Files (x86) |
@@ -126,11 +126,11 @@
  | RTOOLS45_HOME | C:\rtools45 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 1000002585 |
+ | RUNNER_NAME | GitHub Actions 1000002590 |
  | RUNNER_OS | Windows |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_afed9c8f-093b-4433-9fa3-3f91d8c1dc6d |
+ | RUNNER_TRACKING_ID | github_a1a5c5cc-7093-424c-a60a-25c185878498 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
