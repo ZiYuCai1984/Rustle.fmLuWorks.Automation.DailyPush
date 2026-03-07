@@ -5,7 +5,7 @@
 
 | Name  | Value  |
 | :------------ | :------------ |
-| ACTIONS_ORCHESTRATION_ID | 5f8ed834-0320-4963-9ca8-d5a8fb1c0ebb.build.__default |
+| ACTIONS_ORCHESTRATION_ID | 3b905768-d6b0-4cff-a027-da2372d61afd.build.__default |
  | ACTIONS_RUNNER_ACTION_ARCHIVE_CACHE | C:\actionarchivecache\ |
  | AGENT_TOOLSDIRECTORY | C:\hostedtoolcache\windows |
  | ALLUSERSPROFILE | C:\ProgramData |
@@ -50,14 +50,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_868b711e-5c02-47d5-b128-00f674f824fb |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_90acc9d5-fe15-4068-bd25-066218da6a80 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_868b711e-5c02-47d5-b128-00f674f824fb |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_868b711e-5c02-47d5-b128-00f674f824fb |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_90acc9d5-fe15-4068-bd25-066218da6a80 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_90acc9d5-fe15-4068-bd25-066218da6a80 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -68,11 +68,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 22784582098 |
- | GITHUB_RUN_NUMBER | 2054 |
+ | GITHUB_RUN_ID | 22808497569 |
+ | GITHUB_RUN_NUMBER | 2055 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_868b711e-5c02-47d5-b128-00f674f824fb |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_868b711e-5c02-47d5-b128-00f674f824fb |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_90acc9d5-fe15-4068-bd25-066218da6a80 |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_90acc9d5-fe15-4068-bd25-066218da6a80 |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Rustle.fmLuWorks.Automation.DailyPush.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -127,11 +127,11 @@
  | RTOOLS45_HOME | C:\rtools45 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 1000003111 |
+ | RUNNER_NAME | GitHub Actions 1000003117 |
  | RUNNER_OS | Windows |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_326315ba-ef56-495a-83cc-66cc6e34cecf |
+ | RUNNER_TRACKING_ID | github_3f509618-529b-4452-9858-737618eda8e9 |
  | RUNNER_WORKSPACE | D:\a\Rustle.fmLuWorks.Automation.DailyPush.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
